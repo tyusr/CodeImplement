@@ -6,3 +6,7 @@
 **TDL**
 
 [1] You J, Wu A, Li X, et al. Top-Push Video-Based Person Re-identification[J]. 2016:1345-1353.
+
+**SCNCD**
+
+[2] Yang Y, Yang J, Yan J, et al. Salient color names for person re-identification[C]//European Conference on Computer Vision. Springer International Publishing, 2014: 536-551.
